@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(49): warning C4018: '<': signed/unsigned mismatch
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(117): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NeuralNet.cpp
+  Generating Code...
+     Creating library C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\Debug\NeuralNet.lib and object C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\Debug\NeuralNet.exp
+  NeuralNet.vcxproj -> C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\Debug\NeuralNet.dll

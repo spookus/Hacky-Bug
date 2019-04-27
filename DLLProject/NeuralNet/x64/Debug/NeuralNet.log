@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\100550931\desktop\hacky bug\dllproject\neuralnet\main.cpp(51): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\100550931\desktop\hacky bug\dllproject\neuralnet\main.cpp(121): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NeuralNet.vcxproj -> C:\Users\100550931\Desktop\Hacky Bug\DLLProject\x64\Debug\NeuralNet.exe

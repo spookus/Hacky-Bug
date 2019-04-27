@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(90): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(170): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     Creating library C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\x64\Release\NeuralNet.lib and object C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\x64\Release\NeuralNet.exp
+  Generating code
+  1 of 1128 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  NeuralNet.vcxproj -> C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\x64\Release\NeuralNet.dll

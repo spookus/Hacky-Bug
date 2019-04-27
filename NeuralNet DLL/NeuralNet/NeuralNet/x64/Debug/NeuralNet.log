@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\100550931\desktop\hacky bug\neuralnet dll\neuralnet\neuralnet\main.cpp(54): warning C4305: 'argument': truncation from 'double' to 'float'
+     Creating library C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\x64\Debug\NeuralNet.lib and object C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\x64\Debug\NeuralNet.exp
+  NeuralNet.vcxproj -> C:\Users\100550931\Desktop\Hacky Bug\NeuralNet DLL\NeuralNet\x64\Debug\NeuralNet.dll
